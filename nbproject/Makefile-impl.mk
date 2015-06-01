@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Ese051-BasiGestioneListaConcatenataStudenti
+PROJECTNAME=ListaConcatenata
 
 # Active Configuration
 DEFAULTCONF=Debug
